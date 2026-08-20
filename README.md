@@ -1,8 +1,19 @@
-# Pirate Intelligent Agent
+# Compass Under Constraint
 
-A CS 370 reinforcement learning project about teaching a pirate to stop choosing bad turns and find the treasure in an 8 by 8 maze.
+```yaml
+STATUS  : ACTIVE
+AUTHOR  : Bradley D. Saucier
+COURSE  : SNHU CS-370 - Current and Emerging Trends in Computer Science
+```
 
-Python 3.11 | TensorFlow 2.16 | Keras 3 | NumPy | Jupyter
+> [!IMPORTANT]
+> **BOTTOM LINE UP FRONT**
+>
+> A reinforcement learning project about teaching a pirate to stop choosing bad turns and find the treasure in an 8 by 8 maze.
+>
+> Python 3.11 | TensorFlow 2.16 | Keras 3 | NumPy | Jupyter
+
+[![CI](https://github.com/bradsaucier/compass-under-constraint/actions/workflows/ci.yml/badge.svg)](https://github.com/bradsaucier/compass-under-constraint/actions/workflows/ci.yml)
 
 ## What the project does
 
